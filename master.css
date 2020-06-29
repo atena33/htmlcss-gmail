@@ -1,14 +1,11 @@
 body {
   background-image: url("sfondo.jpg");
-
-
 }
 
 #logo {
 
   height: 50px;
   width: auto;
-
 }
 
 h1 {
@@ -22,7 +19,7 @@ h1 {
 	height:100px;
 	border-radius:50px;
 	background:orange;
-  }
+}
 #contenuto-centrale {
   width: 50%;
   margin: 0 auto;
@@ -38,23 +35,22 @@ h1 {
 #checkbox {
   border: solid 2px;
   background-color: #C0C0C0;
-
 }
 
 .hrblack {
   border-color: black;
 }
 
-
 #peso {
   font-style: italic;
   display: inline;
-
 }
+
 footer {
   color: white;
   text-align: center;
 }
+
 #gmail {
   font-size: 28px;
 }
